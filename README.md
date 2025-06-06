@@ -36,7 +36,7 @@ Marcos: 3
 
 **Clonar el repositorio:**
 ```bash
-git clone https://github.com/tu-usuario/simulador-gestion-memoria.git
+git clone https://github.com/Sahinos-JSDV/SimuladorMemoria.git
 cd simulador-gestion-memoria
 ```
 
